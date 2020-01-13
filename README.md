@@ -14,7 +14,7 @@ Python
 ```
 
 ### Installing
-
+```
 git clone https://github.com/incursi0n/2048.git
 python 2048.py
 
